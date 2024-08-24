@@ -73,4 +73,23 @@ lear
    73  mkdir Aug3
    74  ll
    75  cd Aug3/
-   76  ll
+   76  l
+106  git commit -m "Aug3 delete"
+  107  git push
+  108  git status
+  109  git checkout Aug3
+  110  git branch
+  111  git push
+  112  git checkout Aug3
+  113  git commit -m "more commands"
+  114  git push
+  115  history
+  116  vim history.txt
+  117  ll
+  118  git branch
+  119  cd Aug3
+  120  ll
+  121  vim history.txt
+  122  history
+  123  vim history.txt
+  124  historyl
