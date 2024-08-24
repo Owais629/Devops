@@ -1,0 +1,76 @@
+lear
+    2  sudo apt-get update
+    3  cat /etc/os-release
+    4  sudo apt-get install git
+    5  git
+    6  git --version
+    7  ls -lah
+    8  pwd
+    9  mkdir Aug03
+   10  cd Aug03/
+   11  git clone git@github.com:Owais629/Devops.git
+   12  cd ~
+   13  ls -lah
+   14  ll .ssh/
+   15  ssh-keygen
+   16  ll
+   17  ll .ssh/
+   18  cd .ssh/
+   19  cat id_rsa.pub
+   20  cd ~
+   21  cd Aug03/
+   22  git clone git@github.com:Owais629/Devops.git
+   23  ll
+   24  cd ~
+   25  git clone git@github.com:Owais629/Devops.git
+   26  ll
+   27  cd Devops/
+   28  ll
+   29  ls -lah
+   30  cd..
+   31  cd~
+   32  cd ..
+   33  ls
+   34  ls -lah
+   35  cd ubuntu/
+   36  cd ~
+   37  cd vagrant/
+   38  cd ..
+   39  cd vagrant/
+   40  pwd
+   41  ls
+   42  pwd
+   43  ls -lah
+   44  clear
+   45  ll
+   46  cd Aug03/
+   47  ll
+   48  cd Devops/
+   49  ll
+   50  cd ..
+   51  cd Devops/
+   52  ll
+   53  cat .git/config
+   54  git status
+   55  touch owais.txt
+   56  git status
+   57  ls
+   58  git status
+   59  sudo rm -f owais.txt
+   60  ll
+   61  history
+   62  vim history
+   63  ll
+   64  git status
+   65  git add Aug03
+   66  ll
+   67  cat history
+   68  git .add
+   69  git add
+   70  git add .
+   71  git status
+   72  ll
+   73  mkdir Aug3
+   74  ll
+   75  cd Aug3/
+   76  ll
