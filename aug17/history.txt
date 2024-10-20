@@ -1,0 +1,35 @@
+  396  ll
+  397  sudo tar cvf mail.tar /var
+  398  ll
+  399  du -sh mail
+  400  du -sh mail.tar
+  401  cp lib
+  402  du -sh lib
+  403  sudo tar cvf lib.tar
+  404  sudo tar cvf lib.tar /lib
+  405  du -sh lib
+  406  du -sh lib.tar
+  407  ll
+  408  sudo tar cvfj lib.tar.bz2 /lib
+  409  ll
+  410  du -sh tar*
+  411  du -sh lib*
+  412  sudo mkdir tar
+  413  ll
+  414  sudo rm -f tar
+  415  sudo rm -fr tar
+  416  ll
+  417  sudo mkdir untar
+  418  ll
+  419  sudo tar -xvf lib.tar -C untar/
+  420  ll untar/
+  421  ll
+  422  cd ~
+  423  ll
+  424  cd /devops
+  425  cd Devops/
+  426  ll
+  427  mkdir aug17
+  428  cd aug 17
+  429  cd aug17
+  430  history
